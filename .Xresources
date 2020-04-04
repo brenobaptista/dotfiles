@@ -69,25 +69,24 @@ URxvt.background:                 [100]#383C4A
 URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       false
 URxvt*cursorBlink:                true
-# Color that pops as the terminal opens
-URxvt*background:                 #696D95
-! URxvt*foreground:               grey
-
-! Add transparency:
+! Color that pops as the terminal opens
+URxvt*background:                 #383C4A
 URxvt*foreground:                 white
-# tintColor is really the background color
-URxvt*tintColor:                  #696D95
+
+! tintColor is really the background color
+URxvt*tintColor:                  #383C4A
 URxvt*fading:                     15
 URxvt*fadeColor:                  black
-# shading - 0 to 99 darkens, 101 to 200 lightens.
+! shading - 0 to 99 darkens, 101 to 200 lightens.
 URxvt*shading:                    115
+! inheritPixmap adds transparency:
 URxvt*inheritPixmap:              true
 URxvt*pointerColor:               black
 URxvt*pointerColor2:              white
 
 ! Add blur:
 urxvt*transparent: true
-urxvt*blurRadius: 15
+urxvt*blurRadius: 30
 
 URxvt*saveLines:                  5000
 
