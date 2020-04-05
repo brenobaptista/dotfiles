@@ -1,6 +1,8 @@
 # Dotfiles
 > My dotfiles for Manjaro i3
 
+Open .vimrc once so it installs the plugins.
+
 ## Author
 
 | [![brenobaptista](https://avatars1.githubusercontent.com/u/47641641?s=120&v=4)](https://github.com/brenobaptista) |
